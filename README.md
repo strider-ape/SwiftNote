@@ -1,7 +1,9 @@
 # SwiftNote - React Native Notes App
 
 A modern, feature-rich note-taking application built with React Native, Expo, and Supabase. SwiftNote offers a clean, intuitive interface for creating, organizing, and managing notes with advanced filtering and search capabilities.
-![splash.png](assets/images/splash.png)
+
+![logo.jpg](assets/images/logo.jpg)
+
 ## 🚀 Project Overview
 
 SwiftNote is a cross-platform mobile application that demonstrates professional-grade React Native development with real-time data synchronization. The app features a polished UI, comprehensive CRUD operations, and advanced note management capabilities including tagging, filtering, and search functionality.
