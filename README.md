@@ -178,5 +178,8 @@ expo build:android
 - Better perceived performance
 - Proper error handling reverts changes if needed
 
+### Screenshots 
+- Find all screenshots [here](https://drive.google.com/drive/folders/1Rl56Tn7qUgrjYHUCxqQoA3UGacHNwETh?usp=sharing)
+
 **Built with ❤️ using React Native, Expo, and Supabase**
 
