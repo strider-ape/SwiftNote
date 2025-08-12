@@ -167,18 +167,7 @@ expo build:android
 ### Performance Optimizations
 
 **1. React Hooks Strategy**
-
-// Memoized callbacks prevent unnecessary re-renders
-const handleSearch = useCallback((query) => {
-// Search logic
-}, [dependencies]);
-// Focus effects for screen-specific data loading
-useFocusEffect(
-useCallback(() => {
-fetchNotes();
-}, [fetchNotes])
-);
-text
+ - Memoized callbacks prevent unnecessary re-renders
 
 **2. Efficient State Management**
 - Local state with useState for simple data
@@ -186,7 +175,6 @@ text
 - Proper dependency arrays to prevent infinite loops
 
 **3. Optimistic Updates**
-- UI updates immediately while syncing in background
 - Better perceived performance
 - Proper error handling reverts changes if needed
 
